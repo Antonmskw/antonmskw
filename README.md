@@ -5,8 +5,6 @@
 Мои проекты:
  - Итотовая работа SQL https://github.com/Antonmskw/sql-final/blob/main/README.md
 
-
-
 Сертификаты Нетологии:
- - 
+ - [SQL](https://github.com/Antonmskw/antonmskw/files/9598750/certificate.pdf)
 
